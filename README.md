@@ -7,5 +7,5 @@
 
 
 ## Autores
-* Pol Casacuberta Gil
-* Marta Granero i Martí
+* Pol Casacuberta Gil - [pol.casacuberta@estudiantat.upc.edu](pol.casacuberta@estudiantat.upc.edu)
+* Marta Granero i Martí - [marta.granero.i@estudiantat.upc.edu](marta.granero.i@estudiantat.upc.edu)
