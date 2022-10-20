@@ -1,3 +1,8 @@
 *.idea/
+<<<<<<< HEAD
 .DS_Store
 *.ipynb_checkpoints/
+.*~
+=======
+.ipynb_checkpoints/
+>>>>>>> refs/remotes/origin/testingValidDataset
