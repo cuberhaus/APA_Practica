@@ -6,9 +6,10 @@
 ## Instalación
 
 Para generar un requirements.txt en caso de que no esté actualizado:
+(multi-line imports no soportados)
 ```shell
 pip install --user pipreqsnb
-pipreqsnb hypothyroid.ipynb
+pipreqsnb JUPYTER_NOTEBOOK.ipynb
 ```
 
 Para instalar todos los paquetes necesarios a partir del requirements.txt:
