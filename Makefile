@@ -1,0 +1,2 @@
+hypothyroid.zip: hypothyroid.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf
+	zip -r hypothyroid.zip hypothyroid.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf
