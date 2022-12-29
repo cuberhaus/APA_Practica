@@ -10,6 +10,7 @@ Para generar un requirements.txt en caso de que no esté actualizado:
 pip install --user pipreqsnb
 pipreqsnb hypothyroid.ipynb
 ```
+
 Para instalar todos los paquetes necesarios a partir del requirements.txt:
 ```shell
 pip install -r requirements.txt
