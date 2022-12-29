@@ -5,6 +5,15 @@
 
 ## Instalación
 
+Para generar un requirements.txt en caso de que no esté actualizado:
+```shell
+pip install --user pipreqsnb
+pipreqsnb hypothyroid.ipynb
+```
+Para instalar todos los paquetes necesarios a partir del requirements.txt:
+```shell
+pip install -r requirements.txt
+```
 
 ## Autores
 * Pol Casacuberta Gil - [pol.casacuberta@estudiantat.upc.edu](pol.casacuberta@estudiantat.upc.edu)
