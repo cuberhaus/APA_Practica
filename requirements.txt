@@ -1,8 +1,8 @@
 ipython==8.7.0
 matplotlib==3.6.2
 missingno==0.5.1
-numpy==1.23.5
-pandas==1.5.1
+numpy==1.24.1
+pandas==1.5.2
 scikit_learn==1.2.0
 scikit_optimize==0.9.0
 scipy==1.9.3
