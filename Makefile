@@ -1,5 +1,5 @@
-hypothyroid.zip: hypothyroid.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
-	zip -r hypothyroid.zip hypothyroid.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
+hypothyroid.zip: PracticaAPA-Hipotiroidismo-PolCasacubertaMartaGranero.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
+	zip -r hypothyroid.zip PracticaAPA-Hipotiroidismo-PolCasacubertaMartaGranero.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
 
 clean:
 	rm -f hypothyroid.zip
