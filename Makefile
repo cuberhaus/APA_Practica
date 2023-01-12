@@ -1,5 +1,5 @@
-hypothyroid.zip: PracticaAPA-Hipotiroidismo-ModelsLineals.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
-	zip -r hypothyroid.zip PracticaAPA-Hipotiroidismo-ModelsLineals.ipynb requirements.txt df_test.csv df_train.csv hypothyroid_informe.pdf hypothyroid.arff
+PracticaHipotiroidismo.zip: PracticaAPA-Hipotiroidismo-ModelsLineals.ipynb requirements.txt df_test.csv df_train.csv PracticaHipotiroidismo-PolCasacubertaMartaGranero.pdf  hypothyroid.arff
+	zip -r PracticaHipotiroidismo.zip PracticaAPA-Hipotiroidismo-ModelsLineals.ipynb requirements.txt df_test.csv df_train.csv PracticaHipotiroidismo-PolCasacubertaMartaGranero.pdf hypothyroid.arff
 
 clean:
-	rm -f hypothyroid.zip
+	rm -f PracticaHipotiroidismo.zip
